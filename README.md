@@ -17,5 +17,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### Remarks
-Data or Models folder content should not be pushed to github.
+
+## Project
+The notebook with the EDA on the Data of King County Housing can be found in the folder notebooks.
+A Presentation about the result can be found in the presentation folder.
