@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.DSStore
+.DS_Store
 data/*.csv
 data/*.tsv
 data/*.zip
@@ -137,3 +137,6 @@ data/*.json
 
 models/*.pickle
 models/*.pkl
+
+presentation/*.png
+presentation/*.key
